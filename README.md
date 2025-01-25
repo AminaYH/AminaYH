@@ -12,7 +12,7 @@ Hi there! 👋 I'm **Amina Yahia**, a third-year Telecommunications Engineering 
    Building **Kubernetes-native applications** and developing **AWS infrastructure** solutions.  
 
 - **🌐 Database Mastery**:  
-   Deeply experienced with **PostgreSQL**, including replication, monitoring, and backups with tools like **pgBackRest**. Skilled in geospatial data handling using **PostGIS**.  
+   Deeply experienced with **PostgreSQL**, including replication, monitoring, and backups with tools like **pgBackRest**. 
 
 - **🔧 Automation & CI/CD**:  
    Proficient in designing robust CI/CD pipelines with **GitHub Actions**, **Jenkins**, **Ansible**, and **Terraform** to streamline development workflows.  

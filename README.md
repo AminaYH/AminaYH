@@ -1,4 +1,4 @@
-# 🌟 Welcome to Amina Yahia's GitHub 🌟  
+# Welcome to Amina Yahia's GitHub 🌟  
 
 Hi there! 👋 I'm **Amina Yahia**, a third-year Telecommunications Engineering student with a passion for **Linux**, **Coding** and **creative problem-solving**. My GitHub is where I explore cutting-edge technologies, contribute to innovative projects, and share my learning journey.  
 

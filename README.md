@@ -53,15 +53,4 @@ I'm currently diving deeper into:
 - **PostGIS** for geospatial data visualization and mapping.  
 - Advanced PostgreSQL features, including **logical replication**, **monitoring**, and **backup automation**.  
 - Creative ways to integrate **AI** into cloud infrastructure.  
-
----
-
-## 📫 How to Reach Me  
-- 💼 LinkedIn: [Amina Yahia](https://www.linkedin.com/in/amina-yahia/)  
-
----
-
-## ⚡ Fun Fact  
-When I’m not debugging or setting up cloud environments, I’m exploring new ways to optimize database performance or brainstorming my next big cloud project.  
-
-Thanks for stopping by! Feel free to check out my repositories and connect. 🚀  
+  

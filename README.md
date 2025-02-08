@@ -3,7 +3,7 @@
 Hi there! 👋 I'm **Amina Yahia**, a third-year Telecommunications Engineering student with a passion for **Linux**, **Coding** and **creative problem-solving**. My GitHub is where I explore cutting-edge technologies, contribute to innovative projects, and share my learning journey.  
 
 ---
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=aminaYH&theme=dark_lover&title=Repositories,Commits,Stars,Followers,PullRequest,MultipleLang&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=aminaYH&theme=dark_lover&title=Repositories,Commits,Stars,Followers,PullRequest,MultipleLang,experience&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 What I Do  
 - **🌟 Development Projects**:  

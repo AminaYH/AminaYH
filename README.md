@@ -58,4 +58,4 @@ I'm currently diving deeper into:
   
 ### 📊 My GitHub Metrics  
 
-![Metrics](https://metrics.lecoq.io/aminaYH?template=classic&repositories=1&base=header,activity,community&isocalendar=1&languages=1&followup=1&people=1&gists=1&introduction=1&achievements=1&code=1&notable=1&stars=1&habits=1&base_indepth=1)
+![GitHub Activity Graph](https://metrics.lecoq.io/aminaYH?template=classic&base=activity&repositories=1&base_habits=1&languages=1&followup=1&isocalendar=1&activity=1)

@@ -47,7 +47,6 @@ Hi there! 👋 I'm **Amina Yahia**, a third-year Telecommunications Engineering 
 </div>  
 
 ---
-![Metrics](https://metrics.lecoq.io/aminaYH?template=classic&repositories=1&isocalendar=1&languages=1&followup=1&people=1&gists=1&code=1&lines=1)
 
 
 ## 📚 Learning & Exploring  

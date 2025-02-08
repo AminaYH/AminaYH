@@ -7,7 +7,7 @@ Hi there! 👋 I'm **Amina Yahia**, a third-year Telecommunications Engineering 
 
 ## 🚀 What I Do  
 - **🌟 Development Projects**:  
-   Crafting innovative solutions using **Ruby** and **Java**.  
+   Crafting innovative solutions using **Ruby** and **Java** and other languages.  
 
 - **🔭 Cloud Projects**:  
    Building **Kubernetes-native applications** and developing **AWS infrastructure** solutions.  
@@ -46,13 +46,3 @@ Hi there! 👋 I'm **Amina Yahia**, a third-year Telecommunications Engineering 
 
 </div>  
 
----
-
-
-## 📚 Learning & Exploring  
-I'm currently diving deeper into:  
-- **Kubernetes** and **ArgoCD** for advanced cloud orchestration.  
-- **PostGIS** for geospatial data visualization and mapping.  
-- Advanced PostgreSQL features, including **logical replication**, **monitoring**, and **backup automation**.  
-- Creative ways to integrate **AI** into cloud infrastructure.  
-  

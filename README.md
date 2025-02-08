@@ -56,6 +56,3 @@ I'm currently diving deeper into:
 - Advanced PostgreSQL features, including **logical replication**, **monitoring**, and **backup automation**.  
 - Creative ways to integrate **AI** into cloud infrastructure.  
   
-### 📊 My GitHub Metrics  
-
-![GitHub Activity Graph](https://metrics.lecoq.io/aminaYH?template=classic&base=activity&repositories=1&base_habits=1&languages=1&followup=1&isocalendar=1&activity=1)

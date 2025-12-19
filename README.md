@@ -13,7 +13,7 @@ Hi there! 👋 I’m Amina Yahia, a software engineer passionate about Linux, co
    Building **Kubernetes-native applications** and developing **AWS infrastructure** solutions.  
 
 - **🌐 Database Mastery**:  
-   Deeply experienced with **PostgreSQL**, including replication, monitoring, and backups with tools like **pgBackRest**. 
+   Deeply experienced with **PostgreSQL**
 
 - **🔧 Automation & CI/CD**:  
    Proficient in designing robust CI/CD pipelines with **GitHub Actions**, **Jenkins**, **Ansible**, and **Terraform** to streamline development workflows.  
